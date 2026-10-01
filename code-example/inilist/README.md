@@ -1,0 +1,2 @@
+initialization list中的项目次序是由class中的members声明次序决定，所以最好与声明次序保持一致。
+另外尽量不要在list中调用函数吧
